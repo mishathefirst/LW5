@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ArchitectureComponents</string>
+    <string name="app_name">LW5</string>
     <string name="title_hint">Title</string>
     <string name="description_hint">Description</string>
     <string name="priority_hint">Priority</string>
